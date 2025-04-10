@@ -12,7 +12,7 @@ resources:
 
       email_notifications:
         on_failure:
-          - plahari@microsoft.com
+          - valinisunthwal2003@gmail.com
 
       tasks:
         - task_key: main_task
